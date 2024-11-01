@@ -1,0 +1,6 @@
+@ApiMeu_HostAddress = http://localhost:5086
+
+GET {{ApiMeu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
